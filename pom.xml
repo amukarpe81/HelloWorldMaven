@@ -20,7 +20,6 @@
          <url>file:///var/lib/jenkins/myartifacts/</url>
        </repository>
   </distributionManagement>
-  </distributionManagement-->
 <distributionManagement>
        <releasesrepository>
          <id>releases</id>
