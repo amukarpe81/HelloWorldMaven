@@ -20,7 +20,6 @@
          <url>file:///var/lib/jenkins/myartifacts/</url>
        </repository>
    </distributionManagement>
-  <distributionManagement>
   <repository>
     <id>releases</id>
     <!-- CHANGE HERE by your team nexus server -->
