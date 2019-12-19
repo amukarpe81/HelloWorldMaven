@@ -14,11 +14,11 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 <distributionManagement>
-       <repository>
+<!--        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
          <url>file:///var/lib/jenkins/myartifacts/</url>
-       </repository>
+       </repository> -->
       <releasesrepository>
          <id>releases</id>
          <!-- CHANGE HERE by your team nexus server -->
