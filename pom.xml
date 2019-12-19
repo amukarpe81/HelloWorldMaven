@@ -19,6 +19,9 @@
          <name>Internal repo</name>
          <url>file:///var/lib/jenkins/myartifacts/</url>
        </repository>
+  </distributionManagement>
+  </distributionManagement-->
+<distributionManagement>
        <releasesrepository>
          <id>releases</id>
          <!-- CHANGE HERE by your team nexus server -->
